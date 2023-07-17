@@ -1,0 +1,11 @@
+@import './P-Models/rebot.css';
+@import './P-Models/service.css';
+
+.header{
+  margin-bottom: 100px;
+  background-color: blue;
+}
+
+.main__seciton-1 {
+  margin-bottom: 100px;
+}

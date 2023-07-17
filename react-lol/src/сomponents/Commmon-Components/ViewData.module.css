@@ -1,0 +1,13 @@
+.viewData {
+  padding: 10px 10px;
+  border: 2px solid gold;
+}
+
+.flexCol {
+  display: flex;
+  flex-direction: column ;
+}
+
+.flexCol > *:not(:last-child) {
+  margin: 0px 0px 10px 0px;
+}

@@ -1,0 +1,11 @@
+.flexMarg{
+  display: flex;
+}
+
+.fzNav{
+  font-size: 30px;
+}
+
+.flexMarg > *:not(:last-child) {
+  margin: 0px 15px 0px 0px;
+}
